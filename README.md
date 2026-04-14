@@ -2,9 +2,6 @@
 
 Welcome to my LeetCode solutions repository! This project contains my daily practice, problem-solving progress, and algorithm implementations. The repository is organized chronologically by month and day (e.g., `apr/apr1/`).
 
-👤 **LeetCode Profile:** [Shri Hari S (glgJ30fzW3)](https://leetcode.com/u/glgJ30fzW3/)
-
-![Profile Dashboard](dashboard.png)
 ## 📊 Profile Stats
 
 Here is a summary of my current LeetCode progress:
@@ -19,8 +16,6 @@ Here is a summary of my current LeetCode progress:
 
 ## 🏅 Badges & Medals (7 Total)
 
-![Badges](badges.png)
-
 - **50 Days Badge 2026**
 - **Top Interview 150**
 - **Top 100 Liked**
@@ -29,15 +24,6 @@ Here is a summary of my current LeetCode progress:
 - **Introduction to Pandas**
 - **Data Navigation** (Competition Medal)
 
-## 💻 Languages 
-
-- **Python3:** 678 problems solved
-- **MySQL:** 55 problems solved
-- **Java:** 33 problems solved
-
-## 🧠 Skills Breakdown
-
-![Skills](skills.png)
 
 ### Advanced
 - Dynamic Programming (x57)
