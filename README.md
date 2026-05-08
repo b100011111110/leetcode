@@ -4,7 +4,6 @@ Welcome to my LeetCode solutions repository! This project contains my daily prac
 
 👤 **LeetCode Profile:** [Shri Hari S (glgJ30fzW3)](https://leetcode.com/u/glgJ30fzW3/)
 
-![Profile Dashboard](dashboard.png)
 
 ## 📊 Profile Stats
 
@@ -20,8 +19,6 @@ Here is a summary of my current LeetCode progress:
 
 ## 🏅 Badges & Medals (7 Total)
 
-![Badges](badges.png)
-
 - **50 Days Badge 2026**
 - **Top Interview 150**
 - **Top 100 Liked**
@@ -31,8 +28,6 @@ Here is a summary of my current LeetCode progress:
 - **Data Navigation** (Competition Medal)
 
 ## 🧠 Skills Breakdown
-
-![Skills](skills.png)
 
 ### Advanced
 - Dynamic Programming (x57)
