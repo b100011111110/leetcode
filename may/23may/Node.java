@@ -1,3 +1,11 @@
+import java.util.*;
+
+public class Node {
+    int val;
+    Node next,random;
+    Node(int n){}
+}
+
 class Solution {
     public Node copyRandomList(Node head) {
         Map<Node,Node> map = new HashMap<>();

@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
     List<Integer> arr;
     public Solution(ListNode head) {
