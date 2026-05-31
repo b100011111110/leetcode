@@ -1,6 +1,9 @@
 class ListNode{
     int val;
     ListNode next;
+    public ListNode(){}
+    public ListNode(int val){}
+    public ListNode(int val,ListNode node){}
 }
 
 class Solution {
