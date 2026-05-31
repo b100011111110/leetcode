@@ -1,3 +1,8 @@
+import java.util.List;
+import java.util.ArrayList;
+import java.util.Map;
+import java.util.HashMap;
+
 class Solution {
     List<List<Integer>> ans = new ArrayList<>();    
     void traverse(List<Integer> uniqueNums, Map<Integer, Integer> counts, int i, List<Integer> arr) {

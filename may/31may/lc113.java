@@ -1,3 +1,6 @@
+import java.util.List;
+import java.util.ArrayList;
+
 class Solution {
     List<List<Integer>> ans = new ArrayList<>();
     void traverse(TreeNode root,int n,List<Integer> arr){

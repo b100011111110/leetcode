@@ -1,3 +1,6 @@
+import java.util.List;
+import java.util.ArrayList;
+
 class Solution {
     List<List<Integer>> ans = new ArrayList<>();
     void traverse(int[] nums,int i,List<Integer> arr){
