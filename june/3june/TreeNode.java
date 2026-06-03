@@ -1,3 +1,10 @@
+public class TreeNode {
+    int val;
+    TreeNode left,right;
+    TreeNode(int val){}
+    TreeNode(int val,TreeNode left,TreeNode right){}
+}
+
 class Solution {
     int[] traverse(TreeNode root){
         int[] arr = new int[3];
