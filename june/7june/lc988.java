@@ -1,11 +1,19 @@
 class Solution {
+    String smallest = "~";
     public String smallestFromLeaf(TreeNode root) {
-        if(root == null) return "";
-        char c = (char)(root.val + 'a');
-        String l = smallestFromLeaf(root.left) , r = smallestFromLeaf(root.right);
-        if(l.equals("")) return r + c;
-        if(r.equals("")) return l + c;
-        if(l.compareTo(r) > 0) return r + c;
-        return l + c;
+        dfs(root, "");
+        return smallest;
+    }
+    private void dfs(TreeNode node, String current) {
+        if (node == null) return;
+        current = (char)(node.val + 'a') + current;
+        if (node.left == null && node.right == null) {
+            if (current.compareTo(smallest) < 0) {
+                smallest = current;
+            }
+            return;
+        }
+        dfs(node.left, current);
+        dfs(node.right, current);
     }
 }
